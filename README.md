@@ -1,4 +1,4 @@
-# 🚨 Incident Response Report: Rox Threat Lab Port Scanning Activity 🚨
+# 🚨 Threat Hunting Scenario: Unusual Network Slowdown Caused by Rox Threat Lab Port Scanning Activity 🚨
 
 ---
 
